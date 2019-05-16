@@ -1,6 +1,6 @@
 ---
 title: "Great researcher with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Support sustainable research while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
