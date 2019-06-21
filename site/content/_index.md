@@ -3,7 +3,7 @@ title: "Great researcher with a conscience"
 subtitle: Support sustainable research while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: G. Contissa
+    heading: "G. Contissa"
     text: "For everyone who believes that great coffee shouldn't just taste good, it should do good too."
 intro:
     heading: "Research themes"
