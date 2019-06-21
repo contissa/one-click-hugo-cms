@@ -1,6 +1,6 @@
 ---
 title: "Great researcher with a conscience"
-subtitle: Support sustainable research while enjoying a cup
+subtitle: Support sustainable research
 image: /img/home-jumbotron.jpg
 blurb:
     heading: "G. Contissa"
