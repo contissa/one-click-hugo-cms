@@ -6,7 +6,7 @@ blurb:
     heading: G. Contissa
     text: "For everyone who believes that great coffee shouldn't just taste good, it should do good too."
 intro:
-    heading: "What we offer"
+    heading: "Research themes"
     text: "research on legal informatics. Law, Science, Technology"
 products:
     - image: img/illustrations-coffee.svg
