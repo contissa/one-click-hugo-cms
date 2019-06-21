@@ -9,7 +9,7 @@ intro:
     heading: Research themes
     text: "research on legal informatics. Law, Science, Technology"
 products:
-    heading: projects
+    heading: Projects
     text: "many research projects"
 values:
     heading: Our values
