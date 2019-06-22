@@ -16,5 +16,8 @@ products:
 values:
     heading: Research Themes
     text: my research themes.
+projects:
+    heading: projects (new)
+    text: my research projects (new).
 ---
 
