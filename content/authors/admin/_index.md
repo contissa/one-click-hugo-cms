@@ -15,7 +15,7 @@ role: Professor of Legal Informatics
 # Organizations/Affiliations
 organizations:
 - name: University of Bologna
-  url: ""
+  url: "www.unibo.it"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Giuseppe Contissa is professor of legal informatics at the University of Bologna, Law School. His research interests include legal informatics and computer law. 
+Giuseppe Contissa is professor of legal informatics at the University of Bologna, Law School. He is meber of the Alma Human AI research center. His research interests include legal informatics and computer law. 
